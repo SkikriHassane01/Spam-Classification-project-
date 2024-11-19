@@ -1,3 +1,5 @@
 # Spam Classification project
 
-![1-CS-OYdiRLCBMBiOpEURy0g](https://github.com/user-attachments/assets/d5690829-d91f-4ed1-b420-2648f000ddf9)
+
+
+![Spam (1)](https://github.com/user-attachments/assets/932b2b59-dc4f-4269-9633-416fba69b7b3)
